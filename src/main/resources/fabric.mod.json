@@ -8,8 +8,8 @@
 		"Traube", "Lloyd"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "",
+		"sources": "https://github.com/MagischeTraube/Vexo-1.21"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/vexo/icon.png",
